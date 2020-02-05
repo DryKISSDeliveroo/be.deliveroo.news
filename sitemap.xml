@@ -61,6 +61,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://be.deliveroo.news/news/tournee-minerale.html</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://be.deliveroo.news/news/pierre-verdier-nieuw-hoofd-van-deliveroo-belgie-op-belangrijk-moment-tijdens-uitbreidingsstrategie.html</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,6 +254,30 @@
   </url>
   <url>
     <loc>https://be.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://be.deliveroo.news/tag/dry.html</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://be.deliveroo.news/tag/month.html</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://be.deliveroo.news/tag/tournee.html</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://be.deliveroo.news/tag/minerale.html</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
